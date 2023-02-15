@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Andrei, which is pronounced: [ˈɑːndɹeɪ]
 - 🗣️ Pronouns: he/him/his.
-- 👨🏼‍💻 I'm a Data Science Intern at Quantum
+- 👨🏼‍💻 I'm a Data Scientist at Quantum
 - 👨🏼‍🎓 I study computer science at Poznań University of Technology 
 - ❤️ I'm interested in AI 
