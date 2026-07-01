@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Andrei, which is pronounced: [ˈɑːndɹeɪ]
 - 🗣️ Pronouns: he/him/his
-- 👨🏼‍💻 I work as a Data Scientist at Quantum and a Machine Learning Engineer at Bridgewise
+- 👨🏼‍💻 I work as a Lead AI Engineer at Softwarely
 - 👨🏼‍🎓 I study M.Sc. programme in Artificial Intelligence at Poznań University of Technology 
 - ❤️ I'm interested in AI 
